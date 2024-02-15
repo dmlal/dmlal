@@ -1,12 +1,11 @@
 ### Hi there 👋
 
 <a href="https://github.com/dmlal/github-readme-stats">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=dmlal&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+    <img src="https://github-readme-stats.vercel.app/api?username=dmlal&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
 </a>
 <a href="https://github.com/dmlal/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmlal&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
 </a>
-
 
 <!--
 <div style="display: flex; justify-content: space-around;">
