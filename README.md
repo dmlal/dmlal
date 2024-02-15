@@ -10,6 +10,16 @@
 </div>
 
 <!--
+<div style="display: flex; justify-content: space-around;">
+  [![Anurag's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=dmlal&include_orgs=true)](https://github.com/dmlal/github-readme-stats)
+  
+  <a href="https://github.com/dmlal/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmlal" />
+  </a>
+</div>
+-->
+
+<!--
 **dmlal/dmlal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
